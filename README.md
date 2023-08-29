@@ -1,8 +1,6 @@
 # DJC-HULAT-UC3M-SMM4H-2023
 DJC-HULAT-UC3M-SMM4H 2023 Classification of therapy sentiment in tweets
 
-Certainly! Here's a detailed and extended description of the code provided for the sentiment classification task on Twitter data:
-
 ## Code Overview
 
 The provided code is a step-by-step implementation to build and evaluate a machine learning model for sentiment classification of English tweets related to various therapies. The goal is to classify tweets into three sentiment classes: positive, negative, and neutral.
