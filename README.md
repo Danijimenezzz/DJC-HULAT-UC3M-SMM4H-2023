@@ -7,25 +7,25 @@ For this project, other works were studied and reviewed, also somo pieces of cod
 
 The mentioned previous works are listed below (also, more projects were investigated for research purpouses, and are mentioned in the thesis paper:
 
-[Getting Started with Sentiment Analysis on Twitter](https://huggingface.co/blog/sentiment-analysis-twitter), by Federico Pascual
+- [Getting Started with Sentiment Analysis on Twitter](https://huggingface.co/blog/sentiment-analysis-twitter), by Federico Pascual
 
-[Twitter-Sentiment-Analysis-about-ChatGPT](https://github.com/hxycorn/Twitter-Sentiment-Analysis-about-ChatGPT/tree/main), by hxycorn
+- [Twitter-Sentiment-Analysis-about-ChatGPT](https://github.com/hxycorn/Twitter-Sentiment-Analysis-about-ChatGPT/tree/main), by hxycorn
 
-[pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis), by bentrevett
+- [pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis), by bentrevett
 
-[twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis), by abdulfatir
+- [twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis), by abdulfatir
 
-[awesome-sentiment-analysis](https://github.com/xiamx/awesome-sentiment-analysis), by xiamx
+- [awesome-sentiment-analysis](https://github.com/xiamx/awesome-sentiment-analysis), by xiamx
 
-[Sentiment-Analysis-Twitter](https://github.com/ayushoriginal/Sentiment-Analysis-Twitter), by ayushoriginal
+- [Sentiment-Analysis-Twitter](https://github.com/ayushoriginal/Sentiment-Analysis-Twitter), by ayushoriginal
 
-[SentimentAnalysis](https://github.com/barissayil/SentimentAnalysis), by barissayil
+- [SentimentAnalysis](https://github.com/barissayil/SentimentAnalysis), by barissayil
 
-[Sentiment analysis using Twitter data: a comparative application of lexicon- and machine-learning-based approach](https://link.springer.com/article/10.1007/s13278-023-01030-x), by Yuxing Qi & Zahratu Shabrina
+- [Sentiment analysis using Twitter data: a comparative application of lexicon- and machine-learning-based approach](https://link.springer.com/article/10.1007/s13278-023-01030-x), by Yuxing Qi & Zahratu Shabrina
 
-[Twitter-Sentiment-Analysis](https://github.com/the-javapocalypse/Twitter-Sentiment-Analysis), by the-javapocalypse
+- [Twitter-Sentiment-Analysis](https://github.com/the-javapocalypse/Twitter-Sentiment-Analysis), by the-javapocalypse
 
-[french-sentiment-analysis-with-bert](https://github.com/TheophileBlard/french-sentiment-analysis-with-bert), by TheophileBlard
+- [french-sentiment-analysis-with-bert](https://github.com/TheophileBlard/french-sentiment-analysis-with-bert), by TheophileBlard
 
 ## Code Overview
 
