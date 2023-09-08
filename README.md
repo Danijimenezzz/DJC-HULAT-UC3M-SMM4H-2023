@@ -3,7 +3,7 @@ DJC-HULAT-UC3M-SMM4H 2023 Classification of therapy sentiment in tweets
 
 ## References
 
-For this project, other works were studied and reviewed, also somo pieces of code from this projects were re-used for this thesis.
+For this project, other works were studied and reviewed, also somo pieces of code from this previous projects were re-used for our thesis.
 
 The mentioned previous works are listed below (also, more projects were investigated for research purpouses, and are mentioned in the thesis paper:
 
